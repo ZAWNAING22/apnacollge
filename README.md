@@ -1,4 +1,4 @@
 # apnacollge
 the is the demo of apnacollge
 <br>
-Author-Zahid Rahman
+Author-Zahid Rahman(king)
